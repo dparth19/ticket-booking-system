@@ -1,1 +1,1 @@
-# ticket-booking-system
+# ticket_system
